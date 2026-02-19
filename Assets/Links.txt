@@ -8,9 +8,25 @@ https://polyhaven.com/a/caban
 
 https://polyhaven.com/a/terry_cloth
 
-https://assetstore.unity.com/packages/3d/props/furniture/furniture-free-low-poly-3d-models-pack-260522
+Models:
 
-https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
+https://polyhaven.com/a/coffee_table_round_01
 
-https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
+https://polyhaven.com/a/modern_wooden_cabinet
 
+https://polyhaven.com/a/book_encyclopedia_set_01
+
+https://polyhaven.com/a/food_apple_01
+
+https://polyhaven.com/a/wooden_crate_01
+
+https://polyhaven.com/a/wine_bottles_01
+
+
+
+https://polyhaven.com/a/mid_century_lounge_chair
+
+https://polyhaven.com/a/ornate_mirror_01
+
+
+Note: Falta de Unity Asset Store Tambien. Anadir una pesera si la encuentras. como la de edna.
